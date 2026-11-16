@@ -18,6 +18,19 @@
 - **Резервное копирование** — экспорт и восстановление пользовательских данных.
 - **Офлайн-работа** — основные функции доступны без интернета.
 
+## Скриншоты приложения
+
+<p align="center">
+  <img src="screenshots/1.png" width="190">
+  <img src="screenshots/2.png" width="190">
+  <img src="screenshots/3.png" width="190">
+</p>
+<p align="center">
+  <img src="screenshots/4.png" width="190">
+  <img src="screenshots/5.png" width="190">
+</p>
+
+
 ### Установка и обновление
 
 1. Скачайте APK из [последнего релиза](https://github.com/ilyakhaiko/SlovarDiktora/releases/latest).
